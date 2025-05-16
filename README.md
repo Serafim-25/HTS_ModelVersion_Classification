@@ -16,7 +16,7 @@
 
 ---
 
-# Скачайте необходимые файлы:
+# Скачайте оба файла:
 
 [![Скачать docker_gui_launcher.exe](https://img.shields.io/badge/Скачать-docker_gui_launcher.exe-blue)](https://github.com/Serafim-25/HTS_ModelVersion_Classification/raw/main/hts_modelversion_classifier/docker_gui_launcher.exe)  
 [![Скачать hts_modelversion_classifier.tar](https://img.shields.io/badge/Скачать-hts_modelversion_classifier.tar-blue)](https://github.com/Serafim-25/HTS_ModelVersion_Classification/raw/main/hts_modelversion_classifier/hts_modelversion_classifier.tar)
@@ -37,3 +37,5 @@
 5. Дождитесь завершения работы программы.
 
 6. После завершения закройте окно приложения.
+
+P.S. На всем пути работы программы Вас будут сопровоздать уведомления и завершенных процессах и прогресс-бар. Некоторые процессы могут идти долго - ждите)
