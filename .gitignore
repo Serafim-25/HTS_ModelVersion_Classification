@@ -1,0 +1,31 @@
+# Виртуальное окружение
+venv/
+.venv/
+
+# PyCharm / IntelliJ IDEA
+.idea/
+*.iml
+
+# PyInstaller спецификации и build
+build/
+*.spec
+
+# Игнорируем dist с собранным exe
+/dist/
+
+# Логи, временные файлы
+*.log
+*.tmp
+*.temp
+
+# Файлы ОС (Windows)
+Thumbs.db
+.DS_Store
+
+# Кэш pip
+__pycache__/
+*.pyc
+*.pyo
+
+# Игнорировать большой tar-файл
+hts_modelversion_classifier.tar
