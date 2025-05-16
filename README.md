@@ -1,5 +1,7 @@
 # Инструкция по установке и запуску
 
+## Установка Docker Desktop
+
 1. Скачайте и установите **Docker Desktop**  
    [Docker Desktop](https://www.docker.com/products/docker-desktop) — выберите версию для Windows и установите.
 
@@ -16,14 +18,14 @@
 
 ---
 
-# Скачайте оба файла:
+## Скачайте оба файла:
 
 [![Скачать docker_gui_launcher.exe](https://img.shields.io/badge/Скачать-docker_gui_launcher.exe-blue)](https://github.com/Serafim-25/HTS_ModelVersion_Classification/raw/main/hts_modelversion_classifier/docker_gui_launcher.exe)  
 [![Скачать hts_modelversion_classifier.tar](https://img.shields.io/badge/Скачать-hts_modelversion_classifier.tar-blue)](https://github.com/Serafim-25/HTS_ModelVersion_Classification/raw/main/hts_modelversion_classifier/hts_modelversion_classifier.tar)
 
 ---
 
-# Запуск программы
+## Запуск программы
 
 1. Скачанные файлы поместите в одну папку
 
@@ -38,4 +40,4 @@
 
 6. После завершения закройте окно приложения.
 
-P.S. На всем пути работы программы Вас будут сопровождать уведомления о завершенных процессах и прогресс-бар. Некоторые процессы могут идти долго - ждите) В основном это касается процесса загрузки docker-образа, который происходит в самом начале - после выбора всех необходимых папок из шага 4.
+   P.S. На всем пути работы программы Вас будут сопровождать уведомления о завершенных процессах и прогресс-бар. Некоторые процессы могут идти долго - ждите) В основном это касается процесса загрузки docker-образа, который происходит в самом начале - после выбора всех необходимых папок из шага 4.
