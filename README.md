@@ -16,7 +16,7 @@
 
 ---
 
-# Скачайте необходимые файлы и положите их в одну папку:
+# Скачайте необходимые файлы:
 
 [![Скачать docker_gui_launcher.exe](https://img.shields.io/badge/Скачать-docker_gui_launcher.exe-blue)](https://github.com/Serafim-25/HTS_ModelVersion_Classification/raw/main/hts_modelversion_classifier/docker_gui_launcher.exe)  
 [![Скачать hts_modelversion_classifier.tar](https://img.shields.io/badge/Скачать-hts_modelversion_classifier.tar-blue)](https://github.com/Serafim-25/HTS_ModelVersion_Classification/raw/main/hts_modelversion_classifier/hts_modelversion_classifier.tar)
@@ -25,17 +25,15 @@
 
 # Запуск программы
 
-1. Запустите `docker_gui_launcher.exe` из скачанной папки.
+1. Скачанные файлы поместите в одну папку
 
-2. В открывшемся окне:
+3. Запустите `docker_gui_launcher.exe`
+
+4. В открывшемся окне:
 
    - Выберите папку с изображениями для классификации.  
    - Выберите папку для сохранения CSV-файла с результатами.
 
-3. Дождитесь завершения работы программы.
+5. Дождитесь завершения работы программы.
 
-4. После завершения закройте окно приложения.
-
----
-
-Если возникнут вопросы — создавайте issue или пишите сюда.
+6. После завершения закройте окно приложения.
